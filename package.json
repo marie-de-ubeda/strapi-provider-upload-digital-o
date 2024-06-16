@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-digital-o",
-  "version": "3.6.9",
+  "version": "3.6.10",
   "description": "Digital ocean spaces provider for Strapi upload plugin",
   "homepage": "http://strapi.io",
   "keywords": [
